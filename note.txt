@@ -1,0 +1,2 @@
+Git is a version control system that helps track changes in files.
+GitHub is a web platform to store Git repositories and collaborate with others.
